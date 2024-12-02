@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on TechWiccan Blog</title>
+    <link>//localhost:1313/tags/blog/</link>
+    <description>Recent content in Blog on TechWiccan Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Mon, 02 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testing the Blog-Pipeline</title>
+      <link>//localhost:1313/posts/testing-the-blog-pipeline/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/testing-the-blog-pipeline/</guid>
+      <description>&lt;h2 id=&#34;einleitung-zum-blog-und-zu-mir&#34;&gt;Einleitung zum Blog und zu mir&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;Hi, ich bin Marvin, zum Zeitpunkt des Schreibens 27 Jahre alt, arbeite hauptberuflich als &lt;strong&gt;Fachinformatiker für Anwendungsentwicklung&lt;/strong&gt; und bilde mich in meiner Freizeit zum angehenden &lt;strong&gt;nordischen Schamanen (aka. Wiccan)&lt;/strong&gt; aus.&lt;/p&gt;
+&lt;p&gt;Im Zuge dieses Blogs (den ich hoffentlich nicht vergesse) möchte ich alle Interessierten sowohl an meiner &lt;em&gt;technikaffinen&lt;/em&gt; Seite als auch an meiner &lt;em&gt;Reise zum Wiccan&lt;/em&gt; teilhaben lassen.&lt;/p&gt;
+&lt;p&gt;Die Themen, die ich hier gerne sammeln und teilen möchte, beinhalten:&lt;/p&gt;</description>
+      <content>&lt;h2 id=&#34;einleitung-zum-blog-und-zu-mir&#34;&gt;Einleitung zum Blog und zu mir&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;Hi, ich bin Marvin, zum Zeitpunkt des Schreibens 27 Jahre alt, arbeite hauptberuflich als &lt;strong&gt;Fachinformatiker für Anwendungsentwicklung&lt;/strong&gt; und bilde mich in meiner Freizeit zum angehenden &lt;strong&gt;nordischen Schamanen (aka. Wiccan)&lt;/strong&gt; aus.&lt;/p&gt;
+&lt;p&gt;Im Zuge dieses Blogs (den ich hoffentlich nicht vergesse) möchte ich alle Interessierten sowohl an meiner &lt;em&gt;technikaffinen&lt;/em&gt; Seite als auch an meiner &lt;em&gt;Reise zum Wiccan&lt;/em&gt; teilhaben lassen.&lt;/p&gt;
+&lt;p&gt;Die Themen, die ich hier gerne sammeln und teilen möchte, beinhalten:&lt;/p&gt;
+&lt;h2 id=&#34;themen-des-blogs&#34;&gt;Themen des Blogs&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;software-entwicklung&#34;&gt;Software-Entwicklung&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Projekte&lt;/em&gt; und &lt;em&gt;Projektideen&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Server&lt;/em&gt;, jedoch hauptsächlich die Software-Seite&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Linux&lt;/em&gt; und &lt;em&gt;OS&lt;/em&gt; im allgemeinen&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;wiccan&#34;&gt;Wiccan&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;neu gelernte &lt;em&gt;Rituale&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;historische&lt;/em&gt; und &lt;em&gt;mythologische&lt;/em&gt; Fakten&lt;/li&gt;
+&lt;li&gt;neu angeeignetes &lt;em&gt;Wissen&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Zitierung&lt;/em&gt; und &lt;em&gt;Diskussion&lt;/em&gt; mit Auszügen aus der &lt;em&gt;Lieder-Edda&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;abschluss&#34;&gt;Abschluss&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;In erster Linie möchte ich hier &amp;ldquo;Info-Dumping&amp;rdquo; betreiben. Falls ich damit Interessenten erreiche, würde mich das freuen. Ich könnte mir jedoch vorstellen, dass diese teilweise auch widersprüchliche Zusammenstellung von Interessen recht speziell ist :D&lt;/p&gt;
+&lt;p&gt;Wie dem auch sei, vielen Dank und bis bald, euer&lt;/p&gt;
+&lt;p&gt;!&lt;img alt=&#34;Image Description&#34; src=&#34;//localhost:1313/images/signature.png&#34;&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

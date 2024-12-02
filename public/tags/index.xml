@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on TechWiccan Blog</title>
+    <link>//localhost:1313/tags/</link>
+    <description>Recent content in Tags on TechWiccan Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Mon, 02 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>//localhost:1313/tags/blog/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/blog/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Einleitung</title>
+      <link>//localhost:1313/tags/einleitung/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/einleitung/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Softwaredevelopement</title>
+      <link>//localhost:1313/tags/softwaredevelopement/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/softwaredevelopement/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Wiccan</title>
+      <link>//localhost:1313/tags/wiccan/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/wiccan/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+  </channel>
+</rss>
